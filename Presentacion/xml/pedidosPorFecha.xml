@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pedidos>
+  <Pedido>
+    <Fecha>08/03/2015</Fecha>
+    <Cliente>Marty Mcfly</Cliente>
+    <DireccionDeEnvio>Hill Valley, California 1425</DireccionDeEnvio>
+    <CantidadTotalArticulos>2</CantidadTotalArticulos>
+  </Pedido>
+  <Pedido>
+    <Fecha>08/04/2015</Fecha>
+    <Cliente>Jean Luc Picard</Cliente>
+    <DireccionDeEnvio>NCC Enterprise, Espacio Profundo</DireccionDeEnvio>
+    <CantidadTotalArticulos>1</CantidadTotalArticulos>
+  </Pedido>
+</Pedidos>
